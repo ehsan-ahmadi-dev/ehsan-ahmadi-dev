@@ -8,7 +8,7 @@
 
 
 
-### 🧑‍🎓 Get to know me :  
+###  👨‍🎓 Get to know me :  
 A highly motivated and detail-oriented software engineer. I have a solid foundation in computer science principles and a track record of producing high-quality software. In my current position, I have designed and maintained software applications in C#, .Net Core and React js as well as collaborated with cross-functional teams to design and implement software solutions. In addition to my technical abilities, I have excellent problem-solving and communication skills, and I am always eager to learn and improve.  
   
 
@@ -16,19 +16,19 @@ A highly motivated and detail-oriented software engineer. I have a solid foundat
 
 ### 🖥️ Skills  
 
-🔘 Experienced in C#, ASP NET, .Net Core and SQL Server
+✔️ Experienced in C#, ASP NET, .Net Core and SQL Server
 
-🔘Proficient in HTML, CSS, JavaScript, ReactJS, and vueJS
+✔️Proficient in HTML, CSS, JavaScript, ReactJS, and vueJS
 
-🔘I am skilled in Power BI and data analysis, leveraging advanced tools and techniques to deliver actionable insights.
+✔️I am skilled in Power BI and data analysis, leveraging advanced tools and techniques to deliver actionable insights.
 
-🔘Good knowledge of devops and automation test
+✔️ Good knowledge of devops and automation test
 
-🔘Strong understanding of software development
+✔️ Strong understanding of software development
 
-🔘 Proficient in debugging
+✔️ Proficient in debugging
 
-🔘Experience with version control systems such as Git
+✔️ Experience with version control systems such as Git
   
   
 
@@ -67,7 +67,7 @@ A highly motivated and detail-oriented software engineer. I have a solid foundat
 
 
 
-### BD  
+### DB  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -79,9 +79,10 @@ A highly motivated and detail-oriented software engineer. I have a solid foundat
 
 
 ## Connect with me  
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://linkedin.com/in/ehsan-arab-ahmadi-3b9a7464" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
   
 
 🌐 https://ehsan-a-ahmadi.ir  
@@ -96,7 +97,7 @@ A highly motivated and detail-oriented software engineer. I have a solid foundat
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
@@ -106,20 +107,12 @@ A highly motivated and detail-oriented software engineer. I have a solid foundat
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ehsan-ahmadi-dev&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
